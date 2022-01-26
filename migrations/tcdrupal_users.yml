@@ -6,7 +6,7 @@ migration_group: tcdrupal
 label: 'TCDrupal User accounts'
 
 source:
-  plugin: d7_user
+  plugin: tcdrupal_users
 
 process:
   uid:
